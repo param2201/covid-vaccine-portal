@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1623617640 source:v:\it 206\project\vaccineregister\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<VaccineData.h>
+	<SortAndSearch.h>
+	<Registration.h>
+
+1623614957 v:\it 206\project\vaccineregister\include\vaccinedata.h
+	<bits/stdc++.h>
+
+1623614957 source:v:\it 206\project\vaccineregister\src\vaccinedata.cpp
+	"VaccineData.h"
+	<bits/stdc++.h>
+
+1623615141 source:v:\it 206\project\vaccineregister\src\sortandsearch.cpp
+	"SortAndSearch.h"
+	<VaccineData.h>
+	<bits/stdc++.h>
+
+1623615141 v:\it 206\project\vaccineregister\include\sortandsearch.h
+	<bits/stdc++.h>
+	<VaccineData.h>
+
+1623616347 v:\it 206\project\vaccineregister\include\registration.h
+	<bits/stdc++.h>
+
+1623615811 source:v:\it 206\project\vaccineregister\src\registration.cpp
+	"Registration.h"
+	<bits/stdc++.h>
+	<windows.h>
+
